@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Salario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Salario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Nombre\ Edad\ Salario
+comment1.target=void\ CalcularSalario(java.lang.String,\ int,\ float)
+numComments=2
